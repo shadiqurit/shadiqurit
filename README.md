@@ -57,7 +57,7 @@ I write technical guides and thought-provoking essays on:
 
 - 🌐 Website/Blog: [blog.shadiqur.com](https://blog.shadiqur.com)  
 - 📧 Email: `shadiqur.it@gmail.com`
-- 💼 LinkedIn: [Shadiqur Rahman] (https://www.linkedin.com/in/shadiqurrahman) 
+- 💼 LinkedIn: [Shadiqur Rahman](https://www.linkedin.com/in/shadiqurrahman) 
 
 ---
 
